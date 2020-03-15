@@ -13,6 +13,15 @@ Nepaníkár, ale netvár sa, že že sa ťa netýkajú varovania o novom koronav
 
 # Toto nie je bežná chrípka
 ### ani v tom najlepšom prípade
+Predbežný odhad Svetovej Zdravotníckej Organizácie o smrtnosti na úrovni 3.5% je priemerom naprieč všetkými vekovými skupinami a poskytli množstvo prehľadových dát ako dôkaz o veľkom počte asymptomatických prípadov. Existuje veľmi silný konsenzus, že ľudia nad 60 rokov a ľudia s už existujúcimi zdravotnými obtiažami sú zasiahnutí najviac.
+
+Spočiatku ešte existovala nádej že tých 3.5% je prudko nadhodnotených, no čím viac údajov pribúda, tým viac sa [ukazuje že to tak nie je](https://www.statnews.com/2020/02/25/new-data-from-china-buttress-fears-about-high-coronavirus-fatality-rate-who-expert-says/).
+Čísla z Južnej Kórey sú zatiaľ z celého sveta najoptimistckejšie ([0.7% prípadov bolo smrteľných](https://twitter.com/marcelsalathe/status/1236914078632812544)), avšak, a) obyvateľstvo Južnej Kórey je v priemere mladšie a b) Južná Kórea (na rozdiel od väčšiny ostatných krajín) robila
+hneď od prvých prípadov všetko správne: veľmi skoro začali s hromadným testovaním v spojení s radikálnou otvorenosťou, podporou verejnosti a [brilantné drive-through testovanie](https://twitter.com/cnni/status/1234524871226482688)! Ak je tento kmeň nového koronavírusu podobný iným vírusom, agresívne opatrenia na obmedzenie jeho prenosu môžu zároveň znížiť priemernú vírusovú nálož (počet vírusových čiastočiek, ktoré sú potrebné na ochorenie). Toto môže znížiť priemernú závažnosť ochorenia a znížiť aj celkovú úmrtnosť. To však ukáže až čas.
+
+Navyše, AK je smrtnosť vírusu na úrovni čo i len 1% (ako na lodi Diamond Princess), tak je aj tak 10 kráť vyššia ako typická sezónna chrípka.
+
+Vo väčšine prípadov má infekcia mierny priebeh, avšak stále je prenosná. Tí, u ktorých je priebeh komplikovaní sú zasiahnutí ozaj tvrdo. Smrtnosť nie je úplný obraz; Talianski lekári uvádzajú, že 10% prípadov nepotrebuje len hospitalizáciu, ale aj intenzívnu starostlivosť - a tú potrebujú po dobu 3 až 6 týždnov. Toto nie je udržateľné.
 
 # Neodbáčajme od témy
 Dosť sa špekuluje o "ozajstnej" miere; stále sme však v počiatočnej fáze pandémie a presné určenie smrtnosti môže trvať roky. AVŠAK už teraz vieme, že je to niekde **medzi 0.5% až 4%. Tento rozsah je vŠak viac ako primeraným dôkazom, ktorý oprávňuje okamžité a rozsiahle preventívne opatrenia.** Najdôležitejšou vecou, ktorá sa musí urobiť je, že vyrovnáme krivku epidémie, aby sme zdravotnému systému dali priestor na zvládanie existujúcich prípadov a aby mali vedci dostatočný čas na výskum a vývoj vakcíni a liečby.
