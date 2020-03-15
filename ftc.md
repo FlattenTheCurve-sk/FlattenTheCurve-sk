@@ -103,9 +103,12 @@ Pripravujem pár rád ako na to, ostatní sú vítaní s nápadmi a postrehmi. P
 ## Pozri ďalej ako za špičku svojho nosa
 Buď k druhým za každých okolností ohľaduplný. [Možno si v skupine s nízkym rizikom ohrozenia, ale tvoj 80 ročný sused, alebo tvoj kamarát čo mal pred nedávnom operáciu srdca to vnímajú úplne inak.](https://twitter.com/kakape/status/1235318985429782532) Na každom záleží, nikto nie je postrádateľný.
 
-[Popri všetkých zrušených akciách, toto je prvý krát čo vidím prístup, že to je problém nás všetkých. Áno, tvoja zrušená udalosť nemusí nutne zachrániť niekoho život, ale fakt, že tak spravia všetci určite áno. Rovnaká mentalita je potrebná aj pri klimatickom probléme.](https://twitter.com/JasonWilliamsNY/status/1236332192172838912) Cestovanie je velký zdroj šírenia, takže túto príležitosť využite na nákup z lokálnych zdrojov. Toto zníži riziko prenosu, tiež to podporí miestnu ekonomiku a tiež to zníži emisie co2.
+[Popri všetkých zrušených akciách, toto je prvý krát čo vidím prístup, že to je problém nás všetkých. Áno, tvoja zrušená udalosť nemusí nutne zachrániť niekoho život, ale fakt, že tak spravia všetci určite áno. Rovnaká mentalita je potrebná aj pri klimatickom probléme.](https://twitter.com/JasonWilliamsNY/status/1236332192172838912) Cestovanie je veľký zdroj šírenia, takže túto príležitosť využi na nákup z lokálnych zdrojov. Toto zníži riziko prenosu, tiež to podporí miestnu ekonomiku a tiež to zníži emisie co2.
 
-## Pripav si doma karanténnu zónu keby niekto z tvojho okolia ochorel 
+## Karanténna zóna
+### Pripav si doma karanténnu zónu keby niekto z tvojho okolia ochorel
+Priprav sa doma na možnosť, že bude potrebná izolácia a starostlivosť nakazeného člena rodiny. Miestnosť kde bude izolovaný priprav dopredu vrátane potravín, ktoré môže nakazený konzumovať bez nutnosti prípravy a bez priameho kontaktu s ostatnými. Ideálne je, ak má nakazený vlastnú kupelňu. Realisticky, vzhľadom na nedostatok rúšok ich asi nemáš dosť. Ak máš aspoň jednu, tak ju nosí nakazená osoba, nie opatrovatelia.
+
 ## Zdieľaj inforácie
 
 # Čo nerobiť
