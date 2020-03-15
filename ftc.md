@@ -133,8 +133,21 @@ Pozri vyššie a #ZrovnajKrivku (#FlattenTheCurve) teraz. Neexistuje [žiadny ro
 ### a obchodníkom s falošnou nádejov
 Buď k sebe a svojmu telu dobrý. Očakávaj, že budú firmy, ktoré budú chcieť kapitalizovať na tvojom strachu. V tejto chvíli nekupuj žiadny produkt, ktorý tvrdí, že ta ochráni alebo vylieči. V tejto chvíli dostupné produkty ako ibuprofen a paracetamol môžu byť účinné na zmiernenie niektorých symptómov. Doteraz však však nič konktrétne nepotvrdilo. Never žiadnym šmejdom, ktorí tvrdia, že kryštály, éterické oleje, atď im akýmkoľvek spôsobom pomohli. Ľudia, ktorí to zdielajú tomu môžu aj úprimne veriť, ale tiež nevieš či na tebe len nechcú zarobiť. Myšlienka je však rovnaká: väčšina prípadov má mierny priebeh a nie je potrebný žiadny farmaceutický zásah. Namiesto toho aby si si robil starosti s liekmi, radšej jedz dobré jedlo. Cvič. Medituj. Oddychuj. Nezanedbávaj svoje duševné zdravie a nevyužívaj svoju úskosť ako ospravedlnenie svojho správania.
 
-## Nechoď na žiadne nepodstatné verenjné zhromaždenia
+## Verejne zhromaždenia
+### Nechoď na žiadne nepodstatné verenjné zhromaždenia
+Existujú silné historické dôkazy o tom, že rušenie verejných zhromaždení je efektívne opatrenie v oblasti verejného zdravia. [Tu](https://twitter.com/joshmich/status/1235906489921007616) je niekoľko dobrých zdrojov, ktoré môžes použiť ako argumenty pre rušenie verejných akcií. Tu je zlatý klinec:
+
+!(twitter)
+
+Nečakaj s rušením akcie až do chvíle kým to bude preukázateľne naozaj zlý nápad. Lebo v tej chvíli už budú dostupné len spoločensky najškodlivejšie zásahy (napríklad zatváranie škôl). Extrémne opatrenia ako zatvorenie škôl majú tendenciu najviac [zatažovať zraniteľné časti populácie (napr. preto, že ich deti jedia iba v škole)](https://twitter.com/AWhitTwit/status/1236010269605687296). Ak ste ochotní pomôcť deťom v tejto sitácií, dajte im [priamo peniaze](https://twitter.com/ClintSmithIII/status/1237004025331167233). Dôvod prečo je dobre známy. Keď sa zavrú školy, je zložitejšie urdžať veci v chode, lebo zravotníci, úradníci, učitelia, atď sa musia starať o svoje deti, ktoré [ináč nemajú kam ísť](https://twitter.com/AWhitTwit/status/1236010269605687296). Na drasticke sociálne odlúčenie nikdy nie je neskoro, ale najefektívnejšie je do chvíle kým je infikovaných menej ako 1-2% populácie. [Niekde som čítala, ale stratila zdroj. Ozvite sa kto máte.]. Nie je to len o tom, že sa vyhýbaš veľkým zhromaždeniam, [dôsledky môžu mať aj malé strednutia](https://www.bloomberg.com/news/articles/2020-03-06/biogen-employees-test-positive-for-covid-19-after-boston-meeting).
+
+Vyhlasila som výzvu na nástroje, ktorá by mohla pomôcť lepšie modelovať go/no-go rozhodnutia. Ak si vedec a máš záujem spolupracovať, tak sa ozvi. Medzitým je tu toto:
+
+!(risk.jpg)
+
 ## Nehromaď doma rúšky a masky
+Zdravotníci ich zúfalo potrebujú, aby sa mohli starať o teba a tvojich blízkych. Masky NIE SÚ ten najefektívnejší spôsob ako sa môžeš chrániť. Je ťažké ich nosiť, hlavne po dlhšiu dobu a ich efektivita proti vírusom klesá keď je filter vlhký (zhruba 30 minút nosenia). U niektorých ľudí sa zvyšuje riziko, že sa pri nosení masky dotknú tváre. 
+
 ## Pri pozdravoch sa vyhni podávaniu rúk. Buď kreatívny s pozdravmi s nulovým kontaktom.
 ## Na verejných priestranstvách sa pokiaľ možnost ničoho nedotýkaj holými rukamiô buď kreatívny
 ## Ak si čo i len trocha chorý, nechoď do roboty
