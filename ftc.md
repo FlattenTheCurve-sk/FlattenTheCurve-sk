@@ -161,8 +161,14 @@ Zdravotníci ich zúfalo potrebujú, aby sa mohli starať o teba a tvojich blíz
 
 Jednou z najväčších výhod je, že na rozdiel od podarní rúk, objatí, bozkov, atď, na toto neexistuje žiadny protokol. Rob čo ti vyhovuje.
 
-## Na verejných priestranstvách sa pokiaľ možnost ničoho nedotýkaj holými rukamiô buď kreatívny
-## Ak si čo i len trocha chorý, nechoď do roboty
+## Von sa ničoho nedotýkaj
+### holými rukami; buď kreatívny
+Keď je to možné, použi zápästie, lakeť, namiesto prstov (napr. na tlačidlo výťahu, vypínače, atď.). Dvere otváraj radšej bokmi ako rukami. Na kľučky môžeš použiť lakeť. Ak to nejde, tak použi na otvorenie klučky rukáv. 
+
+## Ak si  chorý
+### nechoď do roboty, ak si čo i len trocha chorý
+Je to naozaj dobrý nápad aj keď to nie je Koronavírus. Zdravotníctvo v tejto chvíli potrebuje každý dostupný zdroj. Nespôsobuj zbytočnú paniku. Nepredpokladaj, že to je iba obyčajný soplík. Ak máš horúčku, alebo kašeľ, tak bez reptania zostaň doma.
+
 ## Nechoď k lekárovi bez toho aby si sa dopredu telefonicky ohlásil
 ## Nešír dezinformácie
 ## Nebuď bezohladný
