@@ -129,7 +129,10 @@ Pozri vyššie a #ZrovnajKrivku (#FlattenTheCurve) teraz. Neexistuje [žiadny ro
 ## Nedotýkaj sa tváre
 [To je najbežnejší spôsob ako sa vírus dostane do tela.](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) Je tažké to nerobiť. To je jeden z dôvodov prečo sa odporúča ostať doma a vyhýbať sa davom. Je to tiež dôvod prečo fungujú ostatné opatrenia (rušenie akcií, dobrovolná karanténa). Priemerný človek, aj ten s dobrou hygienou sa konštantne dotýka tváre bez toho aby si to čo i len uvedomoval. Hlavne s blížiacou sa alergickou sezónou na to nezabudni.
 
-## Never ezozlodejom a obchodníkom s falošnou nádejov
+## Never ezozlodejom 
+### a obchodníkom s falošnou nádejov
+Buď k sebe a svojmu telu dobrý. Očakávaj, že budú firmy, ktoré budú chcieť kapitalizovať na tvojom strachu. V tejto chvíli nekupuj žiadny produkt, ktorý tvrdí, že ta ochráni alebo vylieči. V tejto chvíli dostupné produkty ako ibuprofen a paracetamol môžu byť účinné na zmiernenie niektorých symptómov. Doteraz však však nič konktrétne nepotvrdilo. Never žiadnym šmejdom, ktorí tvrdia, že kryštály, éterické oleje, atď im akýmkoľvek spôsobom pomohli. Ľudia, ktorí to zdielajú tomu môžu aj úprimne veriť, ale tiež nevieš či na tebe len nechcú zarobiť. Myšlienka je však rovnaká: väčšina prípadov má mierny priebeh a nie je potrebný žiadny farmaceutický zásah. Namiesto toho aby si si robil starosti s liekmi, radšej jedz dobré jedlo. Cvič. Medituj. Oddychuj. Nezanedbávaj svoje duševné zdravie a nevyužívaj svoju úskosť ako ospravedlnenie svojho správania.
+
 ## Nechoď na žiadne nepodstatné verenjné zhromaždenia
 ## Nehromaď doma rúšky a masky
 ## Pri pozdravoch sa vyhni podávaniu rúk. Buď kreatívny s pozdravmi s nulovým kontaktom.
