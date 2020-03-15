@@ -127,6 +127,8 @@ V žiadnom prípade to neznamená, že máš ohrozovať vzdelanie svojich detí,
 Pozri vyššie a #ZrovnajKrivku (#FlattenTheCurve) teraz. Neexistuje [žiadny rozumný dôvod čakat s prijatím opatrení](https://twitter.com/TomBossert/status/1236399377087959041). Ešte nie sme ani z ďaleka na vrchole a mnoho ľudí sa už odvracia.
 
 ## Nedotýkaj sa tváre
+[To je najbežnejší spôsob ako sa vírus dostane do tela.](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) Je tažké to nerobiť. To je jeden z dôvodov prečo sa odporúča ostať doma a vyhýbať sa davom. Je to tiež dôvod prečo fungujú ostatné opatrenia (rušenie akcií, dobrovolná karanténa). Priemerný človek, aj ten s dobrou hygienou sa konštantne dotýka tváre bez toho aby si to čo i len uvedomoval. Hlavne s blížiacou sa alergickou sezónou na to nezabudni.
+
 ## Never ezozlodejom a obchodníkom s falošnou nádejov
 ## Nechoď na žiadne nepodstatné verenjné zhromaždenia
 ## Nehromaď doma rúšky a masky
