@@ -194,5 +194,17 @@ Nepoužívaj svoje "obavy" ako zásterku pre svoj rasizmus. Vírus je tu teraz. 
 Keď už si spravil všetko čo si mohol, tak si sprav odstup. Naozaj veľký odstup. Pozri si niečo vtipné. Prečítaj si dobrú knihu. Uč sa hrať na hudobnom nástroji. Venuj sa záhradke. Obím svoje dieťa. Zavolaj svojej mame. Obím svoju mamu. Zavolaj svojmu dieťatu. Buď prítomný. Využí túto chvíľu na to, aby si bol vďačný za to, že si nažive na tejto úžastnej planéte. Sme v tom spolu; starajme sa o seba.
 
 # O autorovi
+!(foto.jpg)
+Mam magisterský titul z verejného zdravotníctva na [University oof London School of Hygiene and Tropical Medicin](http://lshtm.ac.uk/) a tiež skúsenosti s infekčnými chorobami a vývojom vakcín. Dopad tejto pandémie bude zbytočne znásobený šírením dezinformácií, takže buďte opatrní. Snažila som sa byť čo najpresnešia a pokiaľ možno nevyvolávať paniku. Za tento príspevok som nedostala žiadnu odplatu, ale považovala som to za svoju profesionálnu zodpovednosť. Toto je dobrovolnícka aktivita a každý kvalifikovaný človek, ktorý chce pomôcť je viac ako vítany. Úprimne povedané, jediný dôvod prečo toto nie je anonymný post je, že by sa to zrejme nebralo vážne a v tejto chvíli je to ozaj potrebné.
+
+Úplné zverejnenie, pracovala som v oblasti vakcín na TB a HIV v rokoch 2000-2010, odvtedy som zmenila obor na genetiku zriedkavých chorôb. V tejto chvíli som odborný asistent (seniorný výskum) na Oregon State University v College of Public Health; ak sa chceš dozvedieť viac o našej práci na počítačových modeloch vzácnych genetických chorôb, choď na tislab.org. Teraz potrebujeme všetku podporu, ktorú môžeme získať.
+
+# Afiliácia
+**Toto nehovorím v mene žiadnej inštitúcie.** Aplikujem len to čo viem a sledujem dôkazy vo chvíli keď sa objavia. Nie je to dokonalé. Ak máš akýkoľvek problém s pravdivosťou, alebo aktuálnosťou tohoto súhrnu, tak nám daj vedieť; ak si virológ / odborník v oblasti verejného zdravotníctva, atď. a chceš prispieť, tak pozri na kontaktnú stránku a ozvi sa.
+
+Ďakujem Moni Munoz Torres za úpravy a za preklad do Španielčiny (rozrobené). Od zajtra pripravujem preklad do Taliančiny (9. 3. 2020).
+
+Tento obsah je vydaný pod licenciou CC-0, v takom rozsahu ako je tu. Licencia sa nevzťahuje na zdroje uvedené v tomt odokumente. Nemixuj toto usmerenenie s pseudovedou. 
+
 # Koho stalkovať ak vás zaujíma veda o pandémii
 # Ako pomôcť a prispieť
