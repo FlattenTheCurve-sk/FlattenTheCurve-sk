@@ -110,9 +110,22 @@ Buď k druhým za každých okolností ohľaduplný. [Možno si v skupine s níz
 Priprav sa doma na možnosť, že bude potrebná izolácia a starostlivosť nakazeného člena rodiny. Miestnosť kde bude izolovaný priprav dopredu vrátane potravín, ktoré môže nakazený konzumovať bez nutnosti prípravy a bez priameho kontaktu s ostatnými. Ideálne je, ak má nakazený vlastnú kupelňu. Realisticky, vzhľadom na nedostatok rúšok ich asi nemáš dosť. Ak máš aspoň jednu, tak ju nosí nakazená osoba, nie opatrovatelia.
 
 ## Zdieľaj inforácie
+### Lobuj u svojich volených zástupcov za výskum
+Ak sa to dá použiť ako indikácia, tak link tracking na tento dokument (štatistiky k nazretiu tu [bit.ly/corona-guidance+](https://bit.ly/corona-guidance+)) ukazuje, že informácie sa šíria hlavne hlavne na twitteri, kde je medzi používateľmi veľa vedcov. Nopak na facebooku a priamy zdieľaním zaostáva a tam je práve najväčšia časť verejnosti. Daj vedieť svojím kamarátom. Daj vedieť svojej rodine. Najväčší vplyv to bude mať na ľudí, ktorý osobne poznáš. Aj keď v tejto chvíli určite neexistujú dôvody na paniku, väčšina ľudí by sa mala o problém zaujímať viac. Zdvihi pomyselnú latku povedomia, z dlhodobého hľadiska to bude oveľa efektívnejšie.
+
+"Jeden z aspektov o ktorom potrebujú zúfalo viac informácií politici je ako ľahko môžu deti prenášať vírus. Vieme, že u detí je priebeh ochorenia miernejší ako u dospelých, ale sú tiež šíriteľmi?" [Na tejto fronte sa zatiaľ objavili zdanlivo protichodné tvrdenia.](https://twitter.com/joshmich/status/1236286986161356801)
+
+Medzi časom uč deti ako vyzerá a ako sa robí dobrá hygiena rúk. Pokiaľ neexistuje jasný signál nakoľko sú deti vektorom, udržuj nechty detí (aj svoje) čo možno najkratšie, aby mal vírus menej zákutí kam sa môže skryť. Z tohoto istého dôvodu som prestal nosiť prstene. Neviem o tom, že by sa uskutočnila na túto tému akákoľvek formálna štúdia.
+
+Zváž domáce vyučovanie, alebo doučovanie pre svoje deti, alebo zrušte detom mimoškolské aktivity.
+
+V žiadnom prípade to neznamená, že máš ohrozovať vzdelanie svojich detí, ale každá trocha sociálneho odlúčenia môže pomôcť. Sprav čo môžeš a zvyškom sa nezatažuj. Nemôžeš cítiť zodpovednosť za každého.
 
 # Čo nerobiť
-## Nečakaj kým sa to nejak vyvinie. Kľúčovým faktorom je rýchlosť
+## Nečakaj 
+### kým sa to nejak vyvinie. Kľúčovým faktorom je rýchlosť
+Pozri vyššie a #ZrovnajKrivku (#FlattenTheCurve) teraz. Neexistuje [žiadny rozumný dôvod čakat s prijatím opatrení](https://twitter.com/TomBossert/status/1236399377087959041). Ešte nie sme ani z ďaleka na vrchole a mnoho ľudí sa už odvracia.
+
 ## Nedotýkaj sa tváre
 ## Never ezozlodejom a obchodníkom s falošnou nádejov
 ## Nechoď na žiadne nepodstatné verenjné zhromaždenia
