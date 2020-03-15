@@ -103,7 +103,7 @@ Pripravujem pár rád ako na to, ostatní sú vítaní s nápadmi a postrehmi. P
 ## Pozri ďalej ako za špičku svojho nosa
 Buď k druhým za každých okolností ohľaduplný. [Možno si v skupine s nízkym rizikom ohrozenia, ale tvoj 80 ročný sused, alebo tvoj kamarát čo mal pred nedávnom operáciu srdca to vnímajú úplne inak.](https://twitter.com/kakape/status/1235318985429782532) Na každom záleží, nikto nie je postrádateľný.
 
-Popri všetkých zrušených akciách, toto je prvý krát čo vidím prístup, že to je problém nás všetkých. Áno, tvoja zrušená udalosť nemusí nutne zachrániť niekoho život, ale fakt, že tak spravia všetci určite áno.
+[Popri všetkých zrušených akciách, toto je prvý krát čo vidím prístup, že to je problém nás všetkých. Áno, tvoja zrušená udalosť nemusí nutne zachrániť niekoho život, ale fakt, že tak spravia všetci určite áno. Rovnaká mentalita je potrebná aj pri klimatickom probléme.](https://twitter.com/JasonWilliamsNY/status/1236332192172838912) Cestovanie je velký zdroj šírenia, takže túto príležitosť využite na nákup z lokálnych zdrojov. Toto zníži riziko prenosu, tiež to podporí miestnu ekonomiku a tiež to zníži emisie co2.
 
 ## Pripav si doma karanténnu zónu keby niekto z tvojho okolia ochorel 
 ## Zdieľaj inforácie
