@@ -51,16 +51,18 @@ Od priateľa v Pekingu: "Ostaňte čo najďalej od strachu a hystérie, ktorá m
 Tu je návod ako na to.
 
 # Čo robiť
-## Umývaj si ruky
-Viac ako 20 sekúnd mydlom a teplou vodou. Ak ti to je dlho, tak si pri tom spievaj. Narozdiel od niektorých ozaj tvrdohlavých vírusov (detská obrna), vírusy z rodiny koroavírusov väčšinov [neprežijú na väčšine tvrdých povrchov dlhšie ako niekoľko hodín, vo výnimočných situáciách niekoľko dní](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext). [Bielidlo a etanol je efektívnejší pri dekontaminácii povrchov ako pri dezinfekcii rúk](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext). Takže nie je potrebné mať plnú pivnicu dezinfekčného gelu. Ten použiješ len vtedy, keď nemáš po ruke mydlo a vodu. Si v reštaurácii? Umy si ruky. Si v škole? Umy si ruku. Na zníženie prenosu, je intenzívne umývanie rúk mydlom nevyhnutné; prečo to tak je nájdeš [tu](https://twitter.com/PalliThordarson/status/1236549305189597189). **Ak už nerobíš nič iné, umývaj si ruky.**
-## Ostaň v kontakte
-### ale vyhýbaj sa davom
-Bude lepšie, keď si budeš od ludí chvíľu držat odstup. Aspoň dva metre pre zabránenie šireniu kvapôčkovej infekcie. Čím vyššie sú tvoje rizikové faktory (vek, nedávne chirurgické zákroky, rakovina, znížená imunita, astma, diabetes, atď.), tým viac sa vyhýbaj davom.
+## Umývajte si ruky
+Viac ako 20 sekúnd mydlom a teplou vodou. Ak ti to je dlho, tak si pri tom spievaj. Na rozdiel od niektorých ozaj tvrdohlavých vírusov (detská obrna), vírusy z rodiny Koroavírusov väčšinou [neprežijú na väčšine tvrdých povrchov dlhšie ako niekoľko hodín, vo výnimočných situáciách niekoľko dní](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext). [Bielidlo a etanol je efektívnejší pri dekontaminácii povrchov ako pri dezinfekcii rúk](https://www.journalofhospitalinfection.com/article/S0195-6701(20)30046-3/fulltext). Takže naozaj nie je potrebné mať plnú pivnicu dezinfekčného gelu. Ten použijete len vtedy, keď nemáte po ruke mydlo a vodu. Ste v reštaurácii? Umyte si ruky. Ste v škole? Umyte si ruku. Na zníženie prenosu, je intenzívne umývanie rúk mydlom nevyhnutné; prečo to tak je nájdete [tu](https://twitter.com/PalliThordarson/status/1236549305189597189). **Ak už nerobíte nič iné, umývajte si ruky.**
 
-CDC odporúča, aby starší [ľudia pokiaľ možno nevychádzali z domu](https://fox8.com/news/coronavirus/cdc-older-adults-should-stay-at-home-as-much-as-possible-due-to-coronavirus/). Z dlhodobého hľadiska je však dôležité dodať, že to bude mať negatívny vplyv na duševné zdravie mnohých ľudí. Kultivácia zmysluplných a kvalitných vzťahov je známym, avšak podceňovaným determinantom zdravotného stavu. Takže, buďte s ľuďmi na ktorých Vám zaleží, ideálne prostredníctvom aktivít s nízkym rizikom nákazy. Napríklad, choďte na prechádzku v malej skupine ľudí, vyhýbajte sa aktivitám v uzavretých priestoroch. Chodťe na pláž. Choďte sa bicyklovať. Spravte si piknik. Toto určite neprejde za týždeň, takže tempo si určujte sami.
+## Ostaňte v kontakte
+### ale vyhýbajte sa davom
+Bude lepšie, keď si budete od ľudí chvíľu držať odstup. Aspoň dva metre pre zabránenie šírenia kvapôčkovej infekcie. Čím vyššie sú Vaše rizikové faktory (vek, nedávne chirurgické zákroky, rakovina, znížená imunita, astma, diabetes, atď.), tým viac sa vyhýbajte davom.
 
-## Zníž riziko infekcie svojími rozhodnutiami
-Keď si to zhrnieme, tak bezpečnejšími každodennými voľbami, nie len tento týžďeň, ale aj počas nasledujúcich mesiacov, môžeme krivku vyrovnať. Pokračuj v podpore svojej lokálnej ekonomiky, ale choď mimo špičku; ak pojdeš 15 minút neskôr, tak to môže znamenať, že nebudú vznikať rady. Úplne všetko, od reštaurácií, cez múzeá až po verejnú dopravu bude menej rizikové (a výrazne príjemnejšie), mimo špičku.
+CDC odporúča, aby starší [ľudia pokiaľ možno nevychádzali z domu](https://fox8.com/news/coronavirus/cdc-older-adults-should-stay-at-home-as-much-as-possible-due-to-coronavirus/). Z dlhodobého hľadiska je však dôležité dodať, že to bude mať negatívny vplyv na duševné zdravie mnohých ľudí. Kultivácia zmysluplných a kvalitných vzťahov je dobre známym, avšak podceňovaným determinantom zdravotného stavu. Takže, buďte s ľuďmi na ktorých Vám záleží, ideálne prostredníctvom aktivít s nízkym rizikom nákazy. Napríklad, choďte na prechádzku v malej skupine ľudí, vyhýbajte sa aktivitám v uzavretých priestoroch. Chodťe na pláž. Choďte sa bicyklovať. Spravte si piknik. Toto určite neprejde za týždeň, takže tempo si určujte sami.
+
+## Znížte svoje riziko 
+### svojími každodennými rozhodnutiami
+Keď si to zhrnieme, tak bezpečnejšími každodennými voľbami, nie len tento týžďeň, ale aj počas nasledujúcich mesiacov, môžeme krivku vyrovnať. Pokračujte v podpore svojej lokálnej ekonomiky, ale choďte mimo špičku; ak pojdete 15 minút neskôr, tak to môže znamenať, že nebudú vznikať rady. Úplne všetko, od reštaurácií, cez múzeá až po verejnú dopravu bude menej rizikové (a výrazne príjemnejšie), mimo špičku.
 
 * Nekontanté športy sú lepšie ako kontaktné športy. Napr tenis je lepší ako (>) futbal.
 * Donáška > terasa reštaurácie > reštaurácia
@@ -70,7 +72,7 @@ Keď si to zhrnieme, tak bezpečnejšími každodennými voľbami, nie len tento
 * Prenos z bohoslužby > účasť na bohoslužbe
 * Narodeninové kapkejky > narodeninová torta
 * Pitie kávy/piva/koktejlu pri stole > pitie kávy/piva/koktejlu na bare.
-* Umenie bude ekonomicky velmi zasiahuté. Zvážte podporu ich tvorby cez crowdsourcingové weby, alebo priamo cez PayPal, alebo sa účastnite len menších vystúpení a predstavní. Propragujte ich na sociálnych sieťach. Nakupujte ich prácu priamo. 
+* Umenie bude ekonomicky veľmi zasiahuté. Zvážte podporu ich tvorby cez crowdsourcingové weby, alebo priamo cez PayPal, alebo sa účastnite len menších vystúpení a predstavní. Propragujte ich na sociálnych sieťach. Nakupujte ich prácu priamo. 
 
 ## Zaokčkuj sa proti chrípke 
 ### nad 60 rokov aj proti zápalu pľúc
@@ -215,7 +217,7 @@ Môže to byť veľmi vážne. Jedna osoba opísala bolesť ako pocit, akoby jej
 ## Nebuď rasista
 Nepoužívaj svoje "obavy" ako zásterku pre svoj rasizmus. Vírus je tu teraz. Mohlo to začať kdekoľvek. Správaj sa tak, ako by sa to začalo v tvojom meste. Lebo nabudúce to tak naozaj môže byť. 
 
-## Buď prítomný, ale nečítaj celý deň správy
+## Buď prítomný, ale nesleduj celý deň správy
 Keď už si spravil všetko čo si mohol, tak si sprav odstup. Naozaj veľký odstup. Pozri si niečo vtipné. Prečítaj si dobrú knihu. Uč sa hrať na hudobnom nástroji. Venuj sa záhradke. Obím svoje dieťa. Zavolaj svojej mame. Obím svoju mamu. Zavolaj svojmu dieťatu. Buď prítomný. Využí túto chvíľu na to, aby si bol vďačný za to, že si nažive na tejto úžastnej planéte. Sme v tom spolu; starajme sa o seba.
 
 # O autorovi
@@ -224,26 +226,28 @@ Mam magisterský titul z verejného zdravotníctva na [University oof London Sch
 
 Úplné zverejnenie, pracovala som v oblasti vakcín na TB a HIV v rokoch 2000-2010, odvtedy som zmenila obor na genetiku zriedkavých chorôb. V tejto chvíli som odborný asistent (seniorný výskum) na Oregon State University v College of Public Health; ak sa chceš dozvedieť viac o našej práci na počítačových modeloch vzácnych genetických chorôb, choď na tislab.org. Teraz potrebujeme všetku podporu, ktorú môžeme získať.
 
-# Afiliácia
-**Toto nehovorím v mene žiadnej inštitúcie.** Aplikujem len to čo viem a sledujem dôkazy vo chvíli keď sa objavia. Nie je to dokonalé. Ak máš akýkoľvek problém s pravdivosťou, alebo aktuálnosťou tohoto súhrnu, tak nám daj vedieť; ak si virológ / odborník v oblasti verejného zdravotníctva, atď. a chceš prispieť, tak pozri na kontaktnú stránku a ozvi sa.
+## Afiliácie
+**Toto nehovorím v mene žiadnej inštitúcie.** Aplikujem len to čo viem a sledujem dôkazy vo chvíli keď sa objavia. Nie je to dokonalé. Ak máte akýkoľvek problém s pravdivosťou, alebo aktuálnosťou tohoto súhrnu, tak nám dajte vedieť; ak ste virológ / odborník v oblasti verejného zdravotníctva, atď. a chcete prispieť, tak pozrite na [stránku kontakty](/contact/) a ozvite sa.
 
 Ďakujem Moni Munoz Torres za úpravy a za preklad do Španielčiny (rozrobené). Od zajtra pripravujem preklad do Taliančiny (9. 3. 2020).
 
-Tento obsah je vydaný pod licenciou CC-0, v takom rozsahu ako je tu. Licencia sa nevzťahuje na zdroje uvedené v tomt odokumente. Nemixuj toto usmerenenie s pseudovedou. 
+Tento obsah je vydaný pod licenciou CC-0, v takom rozsahu ako je tu. Licencia sa nevzťahuje na zdroje uvedené v tomto dokumente. Nemixuj tieto odporúčania s pseudovedou. 
 
-# Koho sledovať
-### ak ťa zaujíma veda o pandémii
-Skutoční hrdinovia sú tí v prvej línii, sestri, lekári, a tí, ktorých práca sa spomína vyššie. Tu sú niektorí, ktorých sledujem z rozličných dôvodov. To že ich citujem neznamená, že čítali, alebo schválili toto usmernenie. Nekomplexný zoznam nájdeš tu. Sledujem tiež množstvo iných (ktorí s týmto nemajú nič spoločné) ľudí, možes si ich prezrieť tu: [https://twitter.com/figgyjam/following](https://twitter.com/figgyjam/following)
+## Koho sledovať
+**ak vás zaujíma veda o pandémii**
 
-# Ako pomôcť a prispieť
-V prvom rade, ďakujem! Na tejto stránke je veľa neplatenej práce a snažíme sa z toho urobiť jeden z najlepších a najužitočnejších zdrojov v tejto neistej dobe COVID-19. S tým sú však spojené aj isté náklady, ako napríklad cena za hosting, alebo potenciálne cena za prácu niekoho kto bude urdžovať obsah ako bude stránka rásť.
+Skutoční hrdinovia sú tí v prvej línii, sestry, lekári, a tí, ktorých práca sa spomína vyššie. Tu sú niektorí, ktorých sledujem z rozličných (dôvodov). To, že ich citujem neznamená, že čítali, alebo schválili tieto odporúčania. Nekompletný zoznam ich twitter profilov nájdeš tu. Sledujem tiež množstvo iných (ktorí s týmto nemajú nič spoločné) ľudí, môžeš si ich prezrieť tu: <https://twitter.com/figgyjam/following>
 
-Ak chcete finančne prispieť, možete [tu](https://opencollective.com/flattenthecurve).
+## Ako pomôcť a prispieť
 
-Ak chcete prisieť obsahom, recenziami, prekladmi, prejdite [sem](https://github.com/flattenthecurve/guide/#how-to-contribute).
+V prvom rade, ďakujeme! Na prípravu obsahu tejto stránky bolo vynaloženého dosť úsilia, ktoré nie je nijakým spôsobom zaplatené. Snažíme sa, aby z toho bol jeden z najlepších a najužitočnejších zdrojov v tejto dobe neistoty spôsobenej COVID19. Sú s tým však spojené aj isté náklady, ako náklady za hosting, alebo, ako bude stránka rásť potencionálna cena za prácu niekoho kto bude udržovať obsah.
 
-Nemusíte prisieť - tieto informácie sú voľne prístupné a zdieľatelné.
+**Ak chcete prispieť finančne**, sme veľmi vďační za akúkoľvek sumu a [môžete to spraviť tu](https://opencollective.com/flattenthecurve).
 
-Všetky zdroje budú použité na údržbu, prevádzku, zlepšovanie a budovanie tohoto webu.
+**Ak chcete pomôcť s obsahom, recenziami a prekladmi**, prejdite [sem](https://github.com/flattenthecurve/guide/#how-to-contribute)
 
-Ešte raz vďaka! A umy si ruky! :)
+Nemusíte prispieť – tieto informácie sú voľne dostupné a zdieľateľné.
+
+Chceme Vás uistiť, že všetky zdroje budú použité na údržbu, prevádzku, zlepšovanie a budovanie tohoto webu.
+
+Ešte raz vďaka! A umyte si ruky. 🙂 
