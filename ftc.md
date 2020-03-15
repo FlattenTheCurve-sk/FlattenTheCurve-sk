@@ -1,22 +1,40 @@
 # FlattenTheCurve
 
 ### Coronavirus (COVID-19)
-### Aktualizácia a usmernenie
+### Aktualizácia a odporúčanie
 Pôvodne zostavila [Julie McMurry, MPH](https://twitter.com/flattencurve)  
 Posledná aktualizácia 12. marca 2020 o 01:30  
 Toto je preklad webu [FlattenTheCurve](https://www.flattenthecurve.com)  
-Slovenský preklad ...  
 
 !(flatten-the-curve.jpg)
 
 # Áno, je to zlé
 Nepaníkár, ale netvár sa, že že sa ťa netýkajú varovania o novom koronavíruse. Konsenzus je, že zabráneniu šírenia bolo možné pred niekoľkými týždňami, avšak v tejto chvíli to už [nie je reálne](https://twitter.com/uwmnewsroom/status/1236020906956189696). Aj keď nám Čína [kúpila čas, premrhali sme ho](https://twitter.com/florian_krammer/status/1236344865924972545). V tetjo chvíli sme vo [fáze pandémie, ktorá bude nasledovaná sezónnymi recidívami choroby](https://twitter.com/NAChristakis/status/1235983934187544578) až do chvíle, kým nebude dostupné očkovanie (ak budeme mať štastie, tak za [18-24 mesiacov](https://www.politico.com/news/2020/03/05/coronavirus-trump-vaccine-rhetoric-121796?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=0000014e-f0fe-dd93-ad7f-f8ff7e290000&nlid=630318)).
 
-# %%% Toto nie je bežná chrípka, ani v tom najlepšom prípade
-# %%% Je to tu
-# %%% Globálne sledovanie a komunikácia
+# Toto nie je bežná chrípka
+### ani v tom najlepšom prípade
+
+# Neodbáčajme od témy
+Dosť sa špekuluje o "ozajstnej" miere; stále sme však v počiatočnej fáze pandémie a presné určenie smrtnosti môže trvať roky. AVŠAK už teraz vieme, že je to niekde **medzi 0.5% až 4%. Tento rozsah je vŠak viac ako primeraným dôkazom, ktorý oprávňuje okamžité a rozsiahle preventívne opatrenia.** Najdôležitejšou vecou, ktorá sa musí urobiť je, že vyrovnáme krivku epidémie, aby sme zdravotnému systému dali priestor na zvládanie existujúcich prípadov a aby mali vedci dostatočný čas na výskum a vývoj vakcíni a liečby.
+
+!(obrazok)
+
+# Je to tu
+Prepokladaj, že vírus už je v tvojom meste / robote / kostole / atď. [S veľkou pravdepodobnosťou to tak je akurát to kvoli nedostatku testov ešte nebolo zistené](https://twitter.com/balajis/status/1234879748083503105). Odhady z Talianska sú také, že na začiatku epidémie bol počet skutočných infekcíí [štvornásobný ako potvrdený počet prípadov.](https://twitter.com/AdamJKucharski/status/1236004937529798659). V Seattle, kryptycký prenos v komunite prebiehal [týždne pred tým ako sa to zistilo](https://twitter.com/trvrb/status/1236096904678633472). Seattle a Stanford robia kus poctivej roboty svojími vlastnými testovacími sadami; [Okolo 5-7% testov v Seattle má pozitívný výsledok](https://twitter.com/UWVirology/status/1236017803162873856) a testovať sa môže ktokoľvek (s indikáciou od lekára).
+
+!(obrazok)
+
+(Z záujme verejného zdravia, University of Washington zverejňuje tieto výsledky). Doteraz len UW a Standord pokročil s vlatným testovaním (bez CDC). Obe tieťo inštitúcie nariadili, aby sa výučba presunula na dištančné alternatívy. To hovorí samo za seba; nasledovať by malo viac univerzít. Profesori však potrebujú technológiu a podporu aby mohli spraviť tento prechod.
+
+Vzdelávacie komuniky, ktoré na to nemajú zdroje (laptopy, vybavenie, atď), budú mať tento prechod najťažší. Začnime teda tými univerzitami (a oblastami), u ktorých tento prechod nebude taký náročný. Tu neexistuje žiadne univerzálne riešenie, ale rýchlosť je ozaj kľúčová. Profesori, nečakajte kým vaša správa urobí rozhodnutie. Prejdite na vzdialene možnosti hneď teraz. [Tipy ako učiť online nájdete tu.](https://docs.google.com/document/d/1QR7IEgdisO6JtmELs07uUsSSu2Yox86GJY9wGV6mBjA/edit#)
+
+# Globálne sledovanie a komunikácia
+Lekári na celom svete sú tlačení do popredia tejto krízy, nedostatok ochranných prostriedkov spôsobuje, že sa nakazia a následne sami nedostávajú potrebnú starostlivosť. Pokiaľ cheš osobný pohľad na veci, pozri sem, ale toto v žiadnom prípade nie je jedinečné. Podobných prípadov pribúda.
+
+Z globálneho hladiska, [autoritárstvo môže limitovať kontrolu pandémie](https://www.theatlantic.com/technology/archive/2020/02/coronavirus-and-blindness-authoritarianism/606922/), lebo môže obmedzovať odbornosť a transparentnosť, ktoré sú potrebné pre správne rozhodovanie ako čo najlepšie využiť dostupné zdroje a ako občanom oznámiť skutočný stav vecí. Príklady možno vidieť v Číne (na začiatku pandémie), v Iráne, Turecku a Rusku, ktoré vykazovali štatisticky nerealistické scenáre, že nemajú žiadne prípady nakazených. Stránky veľvyslanectiev jednotlivých štátov v USA už hlásia prípady, napríklad [Ruské veľvyslanectvo](https://ru.usembassy.gov/covid-19-information/). V súčasnosti je k dispozícii množstvo vizualizácií dát a celosvetové sledovanie prípadov, napríklad v [Johns Hopkins Coronavirus Resource Center](https://coronavirus.jhu.edu/map.html) a [New York Times Coronavirus Case Maps](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html).
+
 # Je tu nádej.
-## Si to ty. 
+## Si to ty. Tak zamakaj.
 Pomôcť môžeš tak, že budeš riadiť nasledovnými pokynmi. Je to jednoduché. Čím skôr sa príjmu preventívne opatrenia, čím viac sa ich príjme, o to viac životov sa zachráni. Očakávaj, že ľudia, ktorí doteraz situáciu zľahčovali, ju teraz budú prehánať. Nevzdávaj sa nádeje. Kľúčové je ostať v pokoji a postupne  zvládať kontrolu infekcie. Naliehaj na ostatných aby robili to isté.
 
 From a dear friend in Beijing “Steer as far away from the fear and hysteria that might be hitting your towns. Use wisdom but don’t allow it to become an empty excuse for not loving your fellow humans. Choose generosity instead of hoarding. And on those really hard days (or maybe after watching too many news reports) turn up the music and dance! Celebrate the goodness! It’s there, it will remain and you can be a catalyst for it!”
@@ -213,9 +231,9 @@ Skutoční hrdinovia sú tí v prvej línii, sestri, lekári, a tí, ktorých pr
 # Ako pomôcť a prispieť
 V prvom rade, ďakujem! Na tejto stránke je veľa neplatenej práce a snažíme sa z toho urobiť jeden z najlepších a najužitočnejších zdrojov v tejto neistej dobe COVID-19. S tým sú však spojené aj isté náklady, ako napríklad cena za hosting, alebo potenciálne cena za prácu niekoho kto bude urdžovať obsah ako bude stránka rásť.
 
-Ak chcete finančne prispieť, možete tu.
+Ak chcete finančne prispieť, možete [tu](https://opencollective.com/flattenthecurve).
 
-Ak chcete prisieť obsahom, recenziami, prekladmi, prejdite sem
+Ak chcete prisieť obsahom, recenziami, prekladmi, prejdite [sem](https://github.com/flattenthecurve/guide/#how-to-contribute).
 
 Nemusíte prisieť - tieto informácie sú voľne prístupné a zdieľatelné.
 
