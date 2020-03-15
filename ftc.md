@@ -169,11 +169,29 @@ Keď je to možné, použi zápästie, lakeť, namiesto prstov (napr. na tlačid
 ### nechoď do roboty, ak si čo i len trocha chorý
 Je to naozaj dobrý nápad aj keď to nie je Koronavírus. Zdravotníctvo v tejto chvíli potrebuje každý dostupný zdroj. Nespôsobuj zbytočnú paniku. Nepredpokladaj, že to je iba obyčajný soplík. Ak máš horúčku, alebo kašeľ, tak bez reptania zostaň doma.
 
-## Nechoď k lekárovi bez toho aby si sa dopredu telefonicky ohlásil
+## Zavolaj než prídeš
+### Nechoď k lekárovi bez toho aby si sa dopredu telefonicky ohlásil
+V žiadnom prípade NECHOĎ priamo do nemocnice. Odporúčania od CDC nájdeš [tu](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html).
+
+Call centrá sú z pochopiteľných dôvodov pretažené, takže nerob paniku a nechaj kapacitu ľudom, ktorí ich naozaj potrebujú.
+
+!(symptomy.jpg)
+
 ## Nešír dezinformácie
+Nemožem zabrániť ľudom aby tento dokument neupravili a nešírili ďalej s informáciami, ktoré nie sú ničím podložené. Ak to chceš urobiť, tak zmaž časť autori. V tejto chvíli nie je dostupný žiadny liek.
+
 ## Nebuď bezohladný
+Naozaj nebuď TÁ osoba. Nemusí to byť o tebe, ale je to problém nás všetkých. Nemysli si, že je dobrý nápad nakaziť sa čo najskor, hlavne pred tým ako skolabuje zdravotníctvo. Skoré ochorenie jednotlivca, alebo populácie počas pandémie nemá žiadny benefit. Iba tým ohrozíš život ostatných. Nie je to len o tom, že ľudia umierajú, ale aj ako umierajú. Odhliadnuc od fyzickej traumy, emocionálne je toto presne opak "dobrej smrti". Ľudia takto zomierajú sami, v karatnéne, odlúčení od svojích blízkych.
+
+Prvé správy naznačujú, že vyliečení sú voči danému kmeňu imúnni. To je skvelá správa pre vývoj vakcín, takže vyrovnaj krivku a čakaj.
+
+Môže to byť veľmi vážne. Jedna osoba opísala bolesť ako pocit, akoby jej pľúca [pretláčali cez mlynček na cestoviny](https://twitter.com/stuff_so/status/1236517734189391875). 10% prípadov potrebuje intenzívnu starostlivosť a ventiláciu. Aj keby boli pitevné správy z Číny [dezinterpretované](https://twitter.com/CT_Bergstrom/status/1235797950451703809), alebo nadhodnotené, tak existuje možnosť dlhodobého, alebo trvalého poškodenia pľúc. V informáciách o poškodení pľúc je v tejto chvíli veľa medzier. To je dané tým, že každý kvalifikovaný, ktorý by o tom mohol informovať je plne zaneprázdnený záchranou životov.
+
 ## Nebuď rasista
+Nepoužívaj svoje "obavy" ako zásterku pre svoj rasizmus. Vírus je tu teraz. Mohlo to začať kdekoľvek. Správaj sa tak, ako by sa to začalo v tvojom meste. Lebo nabudúce to tak naozaj môže byť. 
+
 ## Buď prítomný, ale nečítaj celý deň správy
+Keď už si spravil všetko čo si mohol, tak si sprav odstup. Naozaj veľký odstup. Pozri si niečo vtipné. Prečítaj si dobrú knihu. Uč sa hrať na hudobnom nástroji. Venuj sa záhradke. Obím svoje dieťa. Zavolaj svojej mame. Obím svoju mamu. Zavolaj svojmu dieťatu. Buď prítomný. Využí túto chvíľu na to, aby si bol vďačný za to, že si nažive na tejto úžastnej planéte. Sme v tom spolu; starajme sa o seba.
 
 # O autorovi
 # Koho stalkovať ak vás zaujíma veda o pandémii
