@@ -206,5 +206,19 @@ Mam magisterský titul z verejného zdravotníctva na [University oof London Sch
 
 Tento obsah je vydaný pod licenciou CC-0, v takom rozsahu ako je tu. Licencia sa nevzťahuje na zdroje uvedené v tomt odokumente. Nemixuj toto usmerenenie s pseudovedou. 
 
-# Koho stalkovať ak vás zaujíma veda o pandémii
+# Koho sledovať
+### ak ťa zaujíma veda o pandémii
+Skutoční hrdinovia sú tí v prvej línii, sestri, lekári, a tí, ktorých práca sa spomína vyššie. Tu sú niektorí, ktorých sledujem z rozličných dôvodov. To že ich citujem neznamená, že čítali, alebo schválili toto usmernenie. Nekomplexný zoznam nájdeš tu. Sledujem tiež množstvo iných (ktorí s týmto nemajú nič spoločné) ľudí, možes si ich prezrieť tu: [https://twitter.com/figgyjam/following](https://twitter.com/figgyjam/following)
+
 # Ako pomôcť a prispieť
+V prvom rade, ďakujem! Na tejto stránke je veľa neplatenej práce a snažíme sa z toho urobiť jeden z najlepších a najužitočnejších zdrojov v tejto neistej dobe COVID-19. S tým sú však spojené aj isté náklady, ako napríklad cena za hosting, alebo potenciálne cena za prácu niekoho kto bude urdžovať obsah ako bude stránka rásť.
+
+Ak chcete finančne prispieť, možete tu.
+
+Ak chcete prisieť obsahom, recenziami, prekladmi, prejdite sem
+
+Nemusíte prisieť - tieto informácie sú voľne prístupné a zdieľatelné.
+
+Všetky zdroje budú použité na údržbu, prevádzku, zlepšovanie a budovanie tohoto webu.
+
+Ešte raz vďaka! A umy si ruky! :)
