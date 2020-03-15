@@ -148,7 +148,19 @@ Vyhlasila som výzvu na nástroje, ktorá by mohla pomôcť lepšie modelovať g
 ## Nehromaď doma rúšky a masky
 Zdravotníci ich zúfalo potrebujú, aby sa mohli starať o teba a tvojich blízkych. Masky NIE SÚ ten najefektívnejší spôsob ako sa môžeš chrániť. Je ťažké ich nosiť, hlavne po dlhšiu dobu a ich efektivita proti vírusom klesá keď je filter vlhký (zhruba 30 minút nosenia). U niektorých ľudí sa zvyšuje riziko, že sa pri nosení masky dotknú tváre. 
 
-## Pri pozdravoch sa vyhni podávaniu rúk. Buď kreatívny s pozdravmi s nulovým kontaktom.
+## Nepodávaj ruky
+### Buď kreatívny na pozdravy s nulovým kontaktom
+[Pár zábavných alternatív:](https://twitter.com/figgyjam/status/1234659499169857536)
+* ruka na srdce
+* wakanda forever
+* úklon
+* pukrle
+* live long and prosper
+* [aj tu je niečo](https://www.facebook.com/rashiphop/videos/224963291966743/UzpfSTU1ODc3NTY4NToxMDE1NzE2NTYzODMyNTY4Ng/?q=coronavirus&epa=FILTERS&filters=eyJycF9hdXRob3IiOiJ7XCJuYW1lXCI6XCJhdXRob3JfZnJpZW5kc19mZWVkXCIsXCJhcmdzXCI6XCJcIn0ifQ%3D%3D)
+* zamávaj rúčkou sťaby princeznička
+
+Jednou z najväčších výhod je, že na rozdiel od podarní rúk, objatí, bozkov, atď, na toto neexistuje žiadny protokol. Rob čo ti vyhovuje.
+
 ## Na verejných priestranstvách sa pokiaľ možnost ničoho nedotýkaj holými rukamiô buď kreatívny
 ## Ak si čo i len trocha chorý, nechoď do roboty
 ## Nechoď k lekárovi bez toho aby si sa dopredu telefonicky ohlásil
