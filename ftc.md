@@ -135,9 +135,9 @@ Všetky tieto nástroje majú bezpečnostné implikácie, ktoré by si tiež mal
 ## Korona dvojička
 **Skúste si pre seba nájsť dvojičku ("pandemického parťáka") a spravte si plán starostlivosti o deti, o ľudí so špeciálnymi potrebami, a o domácich miláčikov**
 
-Hlavne ak žiješ sám. V prípade, že dôjde k miestnemu šíreniu si volajte každý deň. Ak si/je chorý, tak si volajte aspon dva krát denne a dohotnite si bezkontaktný plán na doručovanie jedla, liekov a staroslivosť o závislé osoby.
+Hlavne ak žiješ sám. V prípade, že dôjde k miestnemu šíreniu si volajte každý deň. Ak si/je chorý, tak si volajte aspoň dva krát denne a dohodnite si bezkontaktný plán na doručovanie jedla, liekov a starostlivosť o závislé osoby.
 
-Tí, ktorí už teraz zápasia s vážnymi zdravotnými problémami majú skúsenosti, väčšinou majú skúsenosti ako ako zvládať operatívne výzvy a sú pripravení na viacero situácii. Spýtaj sa ich čo potrebujú.
+Tí, ktorí už teraz zápasia s vážnymi zdravotnými problémami majú skúsenosti, väčšinou majú skúsenosti ako zvládať operatívne výzvy a sú pripravení na viacero situácii. Spýtaj sa ich čo potrebujú.
 
 Toto je dobrá príležitosť na zamyslenie nad dlhodobejšími verziami týchto pohotovostných plánov (ak by z nejakého dôvodu takýto pacient neprežil).
 
@@ -146,12 +146,13 @@ Toto je dobrá príležitosť na zamyslenie nad dlhodobejšími verziami týchto
 
 Na ľahšiu nôtu, teraz je ten čas kedy môžete používať pandemickú výhovorku na to, aby ste sa vyvliekol zo všetkých schôdzok, párty, a svadieb, na ktorých by ste ináč boli len z nejakých nejasných dôvodov, alebo z povinnosti. Ak si nie ste istí, či sa Vám tam chce ísť a či sa Vám tam bude páčiť, tak tam nechoďte. Ak to okolnosti dovoľujú, tak sa zúčastnite na diaľku. Alebo sa ukážte len na chvíľu a potom to zabalte. Alebo len pošlite dar.
 
-Ak plánujete svadbu a zaujíma Vás čo máte robiť, tak [tu](https://twitter.com/figgyjam/status/1236997165626478593) je vlákno s niekoľkými možnosťami.
+Ak plánujete svadbu a zaujíma Vás čo máte robiť, tak [tu](https://twitter.com/figgyjam/status/1236997165626478593) je vlákno s niekoľkými možnosťami
+
 
 ## Domov
 **Udržujte svoju domácnosť čistú, vytvorte si procedúry po návrate z vonku**
 
-Pripravujem pár rád ako na to, ostatní sú vítaní s nápadmi a postrehmi. Pár vecí, ktoré ma narýchlo pnapadli: Ak je to možné, tak si doma spravte zónu pre čistý vstup domov. Ak pracujete vo vysoko rizikovom prostredí ako nemocnica, opatrovateľský domov, atď, tak si okamžite po príchode domov vyperte veci. Potom ich vysušte v sušičke pri vysokej teplote, alebo aspoň na slnku. Okamžite si umyte ruky. Všetku poštu, balíky a nákupy (vrátane jedla) nechajte aspoň pár hodín izolované predtým, ako si ich zoberiete domov. Ak patríte do obzvášť rizikovej skupiny, tak určite zvážte aj dlhšiu izoláciu pre poštu, balíky, nákupy (pár dní), nejedzte tepelne neupravené jedlo a dekontaminujte všetko, čo prichádza domov. Posledné [výskumy](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf) ukazujú, že vírus môže prežiť až 4 hodiny na medených povrchoch, až tri dni na plastoch a nerez oceli a 24 hodín na kartóne. [potrebné doplniť odporúčanie ako toto spraviť čo najlepšie; aké silné bielidlo, trvanie, atď]
+Pripravujem pár rád ako na to, ostatní sú vítaní s nápadmi a postrehmi. Pár vecí, ktoré ma narýchlo napadli: Ak je to možné, tak si doma spravte zónu pre čistý vstup domov. Ak pracujete vo vysoko rizikovom prostredí ako nemocnica, opatrovateľský domov, atď., tak si okamžite po príchode domov vyperte veci. Potom ich vysušte v sušičke pri vysokej teplote, alebo aspoň na slnku. Okamžite si umyte ruky. Všetku poštu, balíky a nákupy (vrátane jedla) nechajte aspoň pár hodín izolované predtým, ako si ich zoberiete domov. Ak patríte do obzvlášť rizikovej skupiny, tak určite zvážte aj dlhšiu izoláciu pre poštu, balíky, nákupy (pár dní), nejedzte tepelne neupravené jedlo a dekontaminujte všetko, čo prichádza domov. Posledné [výskumy](https://www.medrxiv.org/content/10.1101/2020.03.09.20033217v1.full.pdf) ukazujú, že vírus môže prežiť až 4 hodiny na medených povrchoch, až tri dni na plastoch a nerez oceli a 24 hodín na kartóne. [potrebné doplniť odporúčanie ako toto spraviť čo najlepšie; aké silné bielidlo, trvanie, atď.]
 
 ## Pozrite ďalej ako za špičku svojho nosa
 
@@ -173,12 +174,11 @@ Ak sa to dá použiť ako indikácia, tak link tracking na tento dokument (štat
 
 Medzi časom učte deti ako vyzerá a ako sa robí dobrá hygiena rúk. Pokiaľ neexistuje jasný signál nakoľko sú deti vektorom, udržujte nechty detí (aj svoje) čo možno najkratšie, aby mal vírus menej zákutí kam sa môže skryť. Z tohoto istého dôvodu som prestala nosiť prstene. Neviem o tom, že by sa uskutočnila na túto tému akákoľvek formálna štúdia.
 
-Ak to okolnosti dovolujú, tak zvážte domáce vyučovanie, alebo doučovanie pre svoje deti, alebo im zrušte mimoškolské aktivity. V žiadnom prípade to neznamená, že máš ohrozovať vzdelanie svojich detí, ale každá trocha sociálneho odlúčenia môže pomôcť.
+Ak to okolnosti dovoľujú, tak zvážte domáce vyučovanie, alebo doučovanie pre svoje deti, alebo im zrušte mimoškolské aktivity. V žiadnom prípade to neznamená, že máš ohrozovať vzdelanie svojich detí, ale každá trocha sociálneho odlúčenia môže pomôcť.
 
 Spravte čo môžete a zvyškom sa nezaťažujte. Nemôžete cítiť zodpovednosť za každého.
 
 # Čo nerobiť
-[%1$s::.dont]
 ## Nečakajte
 **kým sa to nejak vyvinie. Kľúčovým faktorom je rýchlosť**
 
@@ -200,7 +200,7 @@ Existujú silné historické dôkazy o tom, že rušenie verejných zhromažden�
 
 {% twitter https://twitter.com/florian_krammer/status/1235761684431724550 align=center %}
 
-Nečakaj s rušením akcie až do chvíle, kým to bude preukázateľne naozaj zlý nápad. Lebo v tej chvíli už budú dostupné len spoločensky najškodlivejšie zásahy (napríklad zatváranie škôl). Extrémne opatrenia ako zatvorenie škôl majú tendenciu najviac [zatažovať zraniteľné časti populácie (napr. preto, že ich deti jedia iba v škole)](https://twitter.com/AWhitTwit/status/1236010269605687296). Ak ste ochotní pomôcť deťom v tejto sitácií, dajte im [priamo peniaze](https://twitter.com/ClintSmithIII/status/1237004025331167233). Dôvod prečo je dobre známy. Keď sa zavrú školy, je zložitejšie urdžať veci v chode, lebo zravotníci, úradníci, učitelia, atď sa musia starať o svoje deti, ktoré [ináč nemajú kam ísť](https://twitter.com/AWhitTwit/status/1236010269605687296). Na drasticke sociálne odlúčenie nikdy nie je neskoro, ale najefektívnejšie je do chvíle, kým je infikovaných menej ako 1-2% populácie. [Niekde som čítala, ale stratila zdroj. Ozvite sa kto máte.]. Nie je to len o tom, že sa vyhýbaš veľkým zhromaždeniam, [dôsledky môžu mať aj malé strednutia](https://www.bloomberg.com/news/articles/2020-03-06/biogen-employees-test-positive-for-covid-19-after-boston-meeting).
+Nečakaj s rušením akcie až do chvíle, kým to bude preukázateľne naozaj zlý nápad. Lebo v tej chvíli už budú dostupné len spoločensky najškodlivejšie zásahy (napríklad zatváranie škôl). Extrémne opatrenia ako zatvorenie škôl majú tendenciu najviac [zaťažovať zraniteľné časti populácie (napr. preto, že ich deti jedia iba v škole)](https://twitter.com/AWhitTwit/status/1236010269605687296). Ak ste ochotní pomôcť deťom v tejto citácií, dajte im [priamo peniaze](https://twitter.com/ClintSmithIII/status/1237004025331167233). Dôvod prečo je dobre známy. Keď sa zavrú školy, je zložitejšie udržať veci v chode, lebo zdravotníci, úradníci, učitelia, atď. sa musia starať o svoje deti, ktoré [ináč nemajú kam ísť](https://twitter.com/AWhitTwit/status/1236010269605687296). Na drastické sociálne odlúčenie nikdy nie je neskoro, ale najefektívnejšie je do chvíle, kým je infikovaných menej ako 1-2% populácie. [Niekde som čítala, ale stratila zdroj. Ozvite sa kto máte.]. Nie je to len o tom, že sa vyhýbaš veľkým zhromaždeniam, [dôsledky môžu mať aj malé strednutia](https://www.bloomberg.com/news/articles/2020-03-06/biogen-employees-test-positive-for-covid-19-after-boston-meeting).
 
 Vyhlásila som výzvu na nástroje, ktoré by mohli pomôcť lepšie modelovať go/no-go rozhodnutia. Ak si vedec a máš záujem spolupracovať, tak sa ozvi. Medzitým je tu toto:
 
@@ -210,18 +210,17 @@ Vyhlásila som výzvu na nástroje, ktoré by mohli pomôcť lepšie modelovať 
 
 Zdravotníci ich zúfalo potrebujú, aby sa mohli starať o Vás a vašich blízkych. Masky NIE SÚ ten najefektívnejší spôsob ako sa môžete chrániť. Je ťažké ich nosiť, hlavne po dlhšiu dobu a ich efektivita proti vírusom klesá keď je filter vlhký (zhruba 30 minút nosenia). U niektorých ľudí sa zvyšuje riziko, že sa pri nosení masky dotknú tváre. 
 
-## Nepodávaj ruky
-### Buď kreatívny na pozdravy s nulovým kontaktom
-[Pár zábavných alternatív:](https://twitter.com/figgyjam/status/1234659499169857536)
+## Nepodávajte ruky, buďte kreatívni na pozdravy s nulovým kontaktom
+[Pár alternatív:](https://twitter.com/figgyjam/status/1234659499169857536)
 * ruka na srdce
-* wakanda forever
+* kývnutie hlavou
 * úklon
 * pukrle
 * live long and prosper
 * [aj tu je niečo](https://www.facebook.com/rashiphop/videos/224963291966743/UzpfSTU1ODc3NTY4NToxMDE1NzE2NTYzODMyNTY4Ng/?q=coronavirus&epa=FILTERS&filters=eyJycF9hdXRob3IiOiJ7XCJuYW1lXCI6XCJhdXRob3JfZnJpZW5kc19mZWVkXCIsXCJhcmdzXCI6XCJcIn0ifQ%3D%3D)
 * zamávaj rúčkou sťaby princeznička
 
-Jednou z najväčších výhod je, že na rozdiel od podaní rúk, objatí, bozkov, atď, na toto neexistuje žiadny protokol. Rob čo ti vyhovuje.
+Jednou z najväčších výhod je, že na rozdiel od podaní rúk, objatí, bozkov, atď, na toto neexistuje žiadny protokol. Robte čo Vám vyhovuje.
 
 ## Von sa ničoho nedotýkajte
 **holými rukami; buďte kreatívni**
@@ -233,7 +232,7 @@ Keď je to možné, použite zápästie, alebo lakeť, namiesto prstov (napr. na
 
 Je to naozaj dobrý nápad --- aj keď to nie je koronavírus. Zdravotníctvo v tejto chvíli potrebuje každý dostupný zdroj. Nespôsobujte zbytočnú paniku. Nepredpokladajte, že to je iba obyčajný soplík. Ak máte horúčku, alebo kašeľ, tak bez reptania zostaňte doma.
 
-## Zavolajte skôr, než prídte
+## Zavolajte než prídete
 **Nechoďte k lekárovi bez toho aby ste sa dopredu telefonicky ohlásili**
 
 V žiadnom prípade NECHOĎTE priamo do nemocnice. Odporúčanie ako postupovať od Úradu vlády SR nájdete[tu](https://korona.gov.sk/ako-postupovat-v-pripade-podozrenia-na-covid-19/).
@@ -247,7 +246,7 @@ Nemožem zabrániť ľudom aby tento dokument nezneužili a upravený ho nešír
 
 ## Nebuďte bezohľadní
 
-Naozaj nebuďte TEN človek. Nie je to len o Vás -- je to problém nás všetkých. Nemyslite si, že je dobrý nápad nakaziť sa čo najskôr a hlavne predtým ako skolabuje zdravotníctvo. Skoré ochorenie jednotlivca alebo populácie počas pandémie nemá žiadny benefit. Iba tým ohrozíte život ostatných. Nie je to len o tom, že ľudia umierajú, ale aj ako umierajú. Odhliadnuc od fyzickej traumy, emocionálne je toto presne opak "dobrej smrti". Ľudia pri koronavíruse zomierajú sami, v karanténe, odlúčení od svojich blízkych.
+Naozaj nebuďte TEN človek. Nie je to len o Vás --- je to problém nás všetkých. Nemyslite si, že je dobrý nápad nakaziť sa čo najskôr a hlavne predtým ako skolabuje zdravotníctvo. Skoré ochorenie jednotlivca alebo populácie počas pandémie nemá žiadny benefit. Iba tým ohrozíte život ostatných. Nie je to len o tom, že ľudia umierajú, ale aj ako umierajú. Odhliadnuc od fyzickej traumy, emocionálne je toto presne opak "dobrej smrti". Ľudia pri koronavíruse zomierajú sami, v karanténe, odlúčení od svojich blízkych.
 
 Prvé správy naznačujú, že vyliečení sú voči danému kmeňu vírusu imúnni. To je skvelá správa pre vývoj vakcín, takže vyrovnaj krivku a čakaj.
 
@@ -255,7 +254,7 @@ Môže to byť veľmi vážne. Jedna osoba opísala bolesť ako pocit, akoby jej
 
 ## Nebuď rasista
 
-Nepoužívaj svoje "obavy" ako zásterku pre svoj rasizmus. Vírus je tu teraz. Mohlo to začať kdekoľvek. Správaj sa tak, ako by sa to začalo v tvojom meste, lebo nabudúce to tak naozaj môže byť. 
+Nepoužívaj svoje "obavy" ako zásterku pre svoj rasizmus. Vírus je tu teraz. Mohlo to začať kdekoľvek. Správaj sa tak, ako by sa to začalo v tvojom meste, lebo nabudúce to tak naozaj môže byť.
 
 ## Buďte prítomní, ale nesledujte celý deň správy
 
@@ -291,5 +290,4 @@ Nemusíte prispieť – tieto informácie sú voľne dostupné a zdieľateľné.
 
 Chceme Vás uistiť, že všetky zdroje budú použité na údržbu, prevádzku, zlepšovanie a budovanie tohoto webu.
 
-Ešte raz vďaka! A umyte si ruky. 🙂 
-
+Ešte raz vďaka! A umyte si ruky. 🙂
