@@ -6,8 +6,15 @@
 
 #### Aktualizované {{site.data.last_updated [site.active_lang]}} 
 
-
 ![Graf, ktorý ukazuje, že proaktívne opatrenia vyrovnajú krivku počtu prípadov, aby sa predišlo preťaženiu systému zdravotnej starostlivosti.](images/en/flatten-the-curve.jpg)
+
+Keď to uznáte za vhodné, tak tento text zdieľajte. URL: [www.flattenthecurve.com](https://www.flattenthecurve.com), [facebook](https://www.facebook.com/photo.php?fbid=10158003174454431&set=a.10150142889684431&type=3&theater), alebo cez [twitter](https://twitter.com/figgyjam/status/1236346020855861248). Text sa v čase mení. Rýchlosť je kľúčová, takže dobrý plán teraz je lepší ako dokonalý plán neskôr. Ak chcete pomôcť s prekladom, kontaktujte nás cez [kontaktnú stránku](/contact/). V súčasnosti prebieha preklad do taliančiny, francúzštiny, nemčiny a španielčiny.
+
+**Aktualizácia**: Máme newsletter. [Prihláste sa](https://flattenthecurve.substack.com/) ak chete aktualizácie. Žiadny spam, marketing, atď.
+
+**Ak chete pomôcť s obsahom, kliknite [sem](https://www.flattenthecurve.com/#how-to-help-and-contribute), alebo nás prosím, [kontaktujte tu](/contact/).**
+
+Všetky odkazy na pôvodné zdroje sú poskytnuté ako referencie a aby bol známy ich autor.
 
 # Áno, je to zlé
 
